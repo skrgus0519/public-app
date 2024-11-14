@@ -31,5 +31,5 @@
   - 헬스장
 #### 이상 위의 옵션들은 checkbox 함수를 사용하여 다중 선택 가능하도록 구현
 * 위의 옵션들의 설정을 완료한 후 '가격 예측하기' 버튼을 클릭하면 내가 원하는 옵션을 가진 주택의 예상 가격이 나옴
-
-![맨하탄_주택가격1](https://github.com/user-attachments/assets/5cf82998-43e8-4708-9fd6-0b0b39a91a29) ![맨하탄_주택가격2](https://github.com/user-attachments/assets/320d2b05-aae0-4a55-a4ef-a03329e8ecd5)
+![맨하탄_주택가격1](https://github.com/user-attachments/assets/5cf82998-43e8-4708-9fd6-0b0b39a91a29) 
+![맨하탄_주택가격2](https://github.com/user-attachments/assets/320d2b05-aae0-4a55-a4ef-a03329e8ecd5)
